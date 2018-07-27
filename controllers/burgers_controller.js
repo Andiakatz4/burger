@@ -1,6 +1,6 @@
 //Inside the `burgers_controller.js` file, import Express
 var express = require("express");
-
+// Create the `router` for the app
 var router = express.Router();
 
 // Import the model burger.js to use its database functions. //* `burger.js`
